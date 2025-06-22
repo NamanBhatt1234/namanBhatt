@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/naman-bhatt-" target="blank">    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prabhakarjoshi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/prabhakarjoshi71" target="blank">    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prabhakarjoshi71" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/bhatt_nammo" target="blank">    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/bhatt_nammo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
